@@ -6,6 +6,8 @@ categories: jekyll update
 published: true
 ---
 
+_Work in progress, alpha version 0.1_
+
 Fresh out from university, ready to start your career, frustrated because your code is not satisfying ? 
 
 Here's a compilation of all the resources to you can read and watch to write better code:
@@ -47,7 +49,7 @@ and the tool is very very nice. The free community edition is already good with 
  * Linux, because your server will run on Linux, knowing how to read logs, user permission, basic shell script, ... 
  is always handy
  * Cloud, IaaS, PaaS, Docker, ... : usually applications don't live anymore on a simple server but on the Cloud, you need
- at least to know the basics
+ at least to know the basicsd
  * Webservices: SOAP and Rest are the two main actors here
  * UI technologies: it's hard here to suggest one, I would say try to keep up with the most used currently on a worlwide scale. 
  According to https://hotframeworks.com/, it's React and AngularJS 

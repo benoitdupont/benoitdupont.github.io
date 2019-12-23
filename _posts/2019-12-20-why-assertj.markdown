@@ -5,6 +5,9 @@ date:   2019-12-20 13:50:18 +0100
 categories: jekyll update
 ---
 
+_Work in progress, alpha version 0.2_
+
+
 _Yet another testing framework?_ 
 
 As I was working on a project with a colleague[^1], I found that he systematically used AssertJ assertions. I did not see right away any added value
