@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+A blog about Software Engineering, personal experience, interesting technologies, principally around the Java ecosystem
+
+_Work in progress, alpha version 0.1_
