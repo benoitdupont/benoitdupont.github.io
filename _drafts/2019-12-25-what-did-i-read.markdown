@@ -2,7 +2,7 @@
 layout: post
 title:  "What did I read, my bibliography"
 date:   2019-12-21 13:50:18 +0100
-categories: jekyll update
+categories: Java
 published: true
 ---
 

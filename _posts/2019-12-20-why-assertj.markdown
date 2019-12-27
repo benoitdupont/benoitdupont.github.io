@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Assertj ?"
 date:   2019-12-20 13:50:18 +0100
-categories: jekyll update
+categories: [Java, AssertJ, Code]
 ---
 
 _Work in progress, alpha version 0.2_
