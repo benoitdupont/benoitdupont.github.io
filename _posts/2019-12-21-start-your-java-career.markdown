@@ -31,7 +31,6 @@ Other books that are worth recommending:
 * Effective Java
 * ...
 
-
 # Learn your environment: 
  Java is not everything. You also need a lot of extra knowledge:
  
@@ -70,16 +69,17 @@ SCJP Sun Certified Programmer for Java 5 Study Guide (Exam 310-055) from Katheri
 (To be confirmed), read the most recent the book _OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808_   
 , and if you've got the opportunity, do get certified !
  
-Follow Java actuality by reading blogs, magazines (eg.: Java Magazine: https://blogs.oracle.com/javamagazine/)
+Follow Java actuality by reading blogs and magazines like the [Java Magazine][https://blogs.oracle.com/javamagazine] or
+the [stack overflow blog/newsletter][https://stackoverflow.blog/newsletter]
 Watch conferences one the subject, usually all the talks are freely available on youtube, like Devoxx, SpringOne, ...
  
-# At your job (or not)
+# At your job
 _It's hard to not quote all the pragmatic programmer stuff, I'll try to highlight the most important for me_
 
 * Find a mentor
-* Do a lot of pair programming
+* Do a lot of pair (or mob) programming
 * Ask for frequent code review
-* Look at better code 
+* Look at good code, for example mature Open Source framework like Spring 
 * Publish your code on github, it's a nice way to push yourself: if a code is public, then you'll think twice before writing
 something stupid
 
