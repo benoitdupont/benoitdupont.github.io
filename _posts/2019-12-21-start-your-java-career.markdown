@@ -6,13 +6,13 @@ categories: Java
 published: true
 ---
 
-_Work in progress, alpha version 0.2_
+_Work in progress, alpha version 0.3_
 
 Fresh out from university, ready to start your career, wanting to improve your coding skills ? 
 
 Here's a compilation full of resources that you can read and watch to write better code:
 
-_Note: this is a strongly opinionated article from my own experience, for Java developers_
+_Note: this is a strongly opinionated article from my own experience, for an audience of junior Java developers_
 
 # Some books that you just need to read
 
@@ -22,20 +22,12 @@ the ecosystem to become a good programmer.
 3. Test Driven Development: By Example, by Kent Beck. It's not easy to be convinced about TDD by reading theory on the subject. But seeing it 
 in action in the book is way better.
 
-_I'm not trying to be comprehensive here, but I try to be reasonable on where to start_
-
-Other books that are worth recommending:
-* Clean Coder
-* Refactoring
-* Gof patterns
-* Effective Java
-* ...
-
-# Learn your environment: 
- Java is not everything. You also need a lot of extra knowledge:
+# Learn your environment
+ Knowning the Java programming language is not enough, you also need to know how it interact with the other components to 
+ answer business requirement. Here's a list of subjects that you need to at least understand in a general way:
  
  * A build tool like Maven or Gradle
- * Application servers like JBoss
+ * Application servers like JBoss, ...
  * Spring Boot 
  * Spring, and understand concepts of dependency injection and inversion of control
  * Jakarta EE, because usually when you work in an enterprise, you need enterprise Java
@@ -43,35 +35,35 @@ Other books that are worth recommending:
  are now plain old relational databases (Oracle, PostgreSQL, ...) but also NoSQL databases (MongoDB, Cassandra, Neo4j, ...)
   that also need to be considered 
  * Java libraries and frameworks that interact Database interaction: JDBC, ORM/JPA (Hibernate)
- * Testing: at least JUnit, and if you want more, AssertJ and Mockito 
- * Linux, because your server will run on Linux, knowing how to read logs, user permission, basic shell script, ... 
- is always handy
+ * Testing: at least JUnit, and if you want more, Testing Driven Development, AssertJ and Mockito 
+ * Linux, because your server will most probably run on Linux, knowing how to read logs, user permission, basic shell script, ... 
+ is always handy.
  * Cloud, IaaS, PaaS, Docker, ... : usually applications don't live anymore on a simple server but on the Cloud, you need
- at least to know the basicsd
- * Webservices: SOAP and Rest 
+ at least to know the basics
+ * SOAP and Rest webservices 
  * UI technologies: it's hard here to suggest one, I would say try to keep up with the most used currently on a worlwide scale. 
  According to https://hotframeworks.com/, it's React and Angular
  * Messaging: I suggest at least the basics of JMS (Java Messaging System) 
- * Batches: Spring Batch is a major actor here
+ * Batches: Spring Batch is one of the major actors here
  * Git: Yes it's better than SVN, and yes it's complicated but it's worth it !
  * CI/CD: The concepts of continuous integration and continuous development are really important to grasp when you not only develop code, 
  but need to ship it into production.
- *  Use static code analysis tools like Sonar in order to detect your mistakes (don't hesiste to read the rules that it implement).
-
+ 
 # Know your Java
  
- You don't usually use all the features of Java. But the more you know, the better, as you'll be able to have the right tool
+You don't usually use all the features of Java. But the more you know, the better, as you'll be able to have the right tool
  or information to tackle the many difficulties of development.
  
 After several years of Java development, I got the opportunity to be certified in Java. I read the excellent book 
-SCJP Sun Certified Programmer for Java 5 Study Guide (Exam 310-055) from Katherine Sierra and Bert Bates which was excellent.
-
-(To be confirmed), read the most recent the book _OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808_   
-, and if you've got the opportunity, do get certified !
+SCJP Sun Certified Programmer for Java 5 Study Guide (Exam 310-055) from Katherine Sierra and Bert Bates which very instructive.
+(TODO confirm this) Read the most recent the book _OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: 
+Exam 1Z0-808_, and if you've got the opportunity, do get certified !
  
 Follow Java actuality by reading blogs and magazines like the [Java Magazine][https://blogs.oracle.com/javamagazine] or
 the [stack overflow blog/newsletter][https://stackoverflow.blog/newsletter]
 Watch conferences one the subject, usually all the talks are freely available on youtube, like Devoxx, SpringOne, ...
+
+Use static code analysis tools like Sonar in order to detect the mistakes in your code, and don't hesitate to read the rules used used to detect defects.
  
 # At your job
 _It's hard to not quote all the pragmatic programmer stuff, I'll try to highlight the most important for me_

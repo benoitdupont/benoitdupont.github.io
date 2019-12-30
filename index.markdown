@@ -5,6 +5,9 @@
 layout: home
 ---
 
-A blog about Software Engineering, personal experience, interesting technologies, principally around the Java ecosystem
+A blog about software engineering in general, things from my personal experience, interesting technologies, 
+subjects mainly around the Java ecosystem.
+
+Note that this is more a vulgarisation blog targeting a more general audience than Java specialists.
 
 _Work in progress, alpha version 0.1_

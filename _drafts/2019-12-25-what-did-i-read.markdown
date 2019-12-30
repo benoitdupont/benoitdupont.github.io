@@ -13,7 +13,9 @@ and maybe recommendations if the book is extraordinary. It's also to see in whic
 
 # Currently reading
 
-* The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones, Antony Hosking and Eliot Moss 
+* The Garbage Collection Handbook: The Art of Automatic Memory Management by Richard Jones, Antony Hosking and Eliot Moss
+  * Hard to read because it's very detailed/comprehensive and specific with many algorithms, ... But interesting to get information
+  on recent algorithms   
 * It Doesn't Have to Be Crazy at Work by Jason Fried and David Heinemeier Hansson 
 
 # Read
