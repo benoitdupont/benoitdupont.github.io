@@ -5,3 +5,5 @@ _site
 vendor
 
 *.bat
+
+.idea
