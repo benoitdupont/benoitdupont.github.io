@@ -2,7 +2,7 @@
 layout: post
 title:  "Good passwords - Diceware ?"
 date:   2019-12-20 13:50:18 +0100
-categories: General
+categories: [General, Security]
 ---
 
 _Work in progress, alpha version 0.1_

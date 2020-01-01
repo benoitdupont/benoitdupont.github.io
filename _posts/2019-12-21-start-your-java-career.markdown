@@ -3,7 +3,6 @@ layout: post
 title:  "New Java Developer ? Here's how you can write better code"
 date:   2019-12-21 13:50:18 +0100
 categories: Java
-published: true
 ---
 
 _Work in progress, alpha version 0.3_

@@ -23,6 +23,7 @@ I especially love
 * the Testing Driven Development, that I cannot not use anymore on my projects
 * the Agile methodology, without exaggeration it avoid a lot of tedious procedures and focus on code delivery
 * pair programming and peer reviewing, because working together with other people is so efficient and an opportunity to grow professionally
+* remote working, because we loose everyday too much time with commuting, and working with an international team is a really nice challenge
 
 # What cool projects did I do ?
 

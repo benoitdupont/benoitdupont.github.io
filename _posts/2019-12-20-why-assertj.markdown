@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Assertj ?"
+title:  "Assertj, yet another testing framework ?"
 date:   2019-12-20 13:50:18 +0100
 categories: [Java, AssertJ, Code]
 ---
