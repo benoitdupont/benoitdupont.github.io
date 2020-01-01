@@ -7,11 +7,13 @@ permalink: /about/
 
 # Who am I ?
 
-Hello, my name is Benoit Dupont, I'm a software engineer living in Belgium. 
-
+Hello, my name is Benoit Dupont, I'm a software engineer living in Belgium and proud father of two little girls.
 I like software development, especially Java and it's ecosystem. 
 
-Here's my [CV](CV_Benoit_Dupont.pdf) and in the next section, a more comprehensive list 
+![That's me!](/assets/profile.png)
+
+
+Here's my [CV](/assets/CV_Benoit_Dupont.pdf) and in the next section, a more comprehensive list 
 of projects and technologies that I did in the past.
 
 I especially love 
