@@ -54,7 +54,10 @@ in action in the book is way better.
 * SQL Performance Explained Everything Developers Need to Know about SQL Performance by Markus Winand
   * At least a easy-to-read and excellent book, accessible to non-dba on SQL and indexes
 
-# Backlog/Wish list
+# Want to read 
+
+* https://book.git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_squashing
+* https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#_commit_guidelines
 
 * Java Concurrency in Practice
 * Java Generics and Collections
@@ -62,19 +65,19 @@ in action in the book is way better.
 * Java Performance From Binu John
 * Thinking in Java
 * Java SE 8 for the Really Impatient
-*  Working effectively with Legacy Code
-*  The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) – Chad Fowler
-*  Practical Unit Testing with JUnit and Mockito – Tomek Kaczanowski
-*  Bad Tests, Good Tests – Tomek Kaczanowski
-*  Domain-Driven Design: Tackling Complexity in the Heart of Software – Eric Evans
-*  Implementing Domain-Driven Design – Vaughn Vernon
-*  Release It! Design and Deploy Production -Ready Software (Pragmatic Programmers) – Michael T. Nygard
-*  OCA / OCP Java SE 8 Programmer Certification Kit OCA / OCP Java SE 8 Programmer Certification Kit by Jeanne Boyarsky and Scott Selikoff
-*  Coding: On Software Design Process – Jonathan Locke
-*  new release of pragmatic programmer
-*  new release of effective java
-*  new release of spring in action
-*  new book spring batch 
+* Working effectively with Legacy Code
+* The Passionate Programmer: Creating a Remarkable Career in Software Development (Pragmatic Life) – Chad Fowler
+* Practical Unit Testing with JUnit and Mockito – Tomek Kaczanowski
+* Bad Tests, Good Tests – Tomek Kaczanowski
+* Domain-Driven Design: Tackling Complexity in the Heart of Software – Eric Evans
+* Implementing Domain-Driven Design – Vaughn Vernon
+* Release It! Design and Deploy Production -Ready Software (Pragmatic Programmers) – Michael T. Nygard
+* OCA / OCP Java SE 8 Programmer Certification Kit OCA / OCP Java SE 8 Programmer Certification Kit by Jeanne Boyarsky and Scott Selikoff
+* Coding: On Software Design Process – Jonathan Locke
+* new release of pragmatic programmer
+* new release of effective java
+* new release of spring in action
+* new book spring batch 
 * Continuous Integration  by Paul Duvall, Steve Matyas, and Andrew Glove
 * Continuous Delivery by Jez Humble and David Farley
 * Patterns of Enterprise Application Architecture by Martin Fowler, with Dave Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, and Randy Stafford
