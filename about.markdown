@@ -27,19 +27,19 @@ I especially love
 # What cool projects did I do ?
 
 * I started writing a [blog](https://benoitdupont.github.io) to share my thoughts and personal experience on software development  
-* I started contributing on the Open Source project [AssertJ](https://joel-costigliola.github.io/assertj/)
+* I'm contributing to the nice testing Open Source project [AssertJ](https://joel-costigliola.github.io/assertj/)
 * I'm writing my own [demo application:Tinkin](https://github.com/benoitdupont/tinkin) to get the opportunity to play with various frameworks.
 * Lot of product development and maintenance for a big HealthCare government company
   * Apps on application server like JBoss and Weblogic 
-  * Apps on Spring Boot
-  * Webservices SOAP and Rest, with security and high availability
+  * Spring Boot apps
+  * Cloud Native apps on Openshift
+  * Highly available and secured Webservices, both in SOAP and Rest with 0Auth
   * Batches with Spring Batch
   * UI development with Vaadin, Javascript and JSF
   * Migration of apps from IaaS to PaaS, on Openshift 
-  * Migration of apps from VM's to IaaS
 * Performance investigations and code optimization
 * R&D framework development
-* On site client product integration 
+* On-site client product integration 
 * And many more things like 
   * Pair programming, peer reviewing
   * Presentation of in-house company demo's and formations
